@@ -1,0 +1,10 @@
+- [x] Update `WalletState` interface in `store.ts` to add `ethBalanceBaseSepolia: string`
+- [x] Initialize `ethBalanceBaseSepolia: '0'` in store
+- [x] In `disconnectWallet`, reset `ethBalanceBaseSepolia: '0'`
+- [x] In `updateBalances`, fetch Base Sepolia ETH balance using a JsonRpcProvider for Base Sepolia RPC
+- [x] Set `ethBalanceBaseSepolia` in the store update
+- [x] In error case, set `ethBalanceBaseSepolia: '0'`
+- [x] Update `nexus.tsx` to destructure `ethBalanceBaseSepolia` from store
+- [x] Add logic in `nexus.tsx` to push Base Sepolia ETH asset to `ethAssets` if balance > 0
+- [ ] Test the changes by connecting wallet and checking balances
+- [ ] Verify Base Sepolia ETH appears in the UI
