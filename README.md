@@ -1,4 +1,4 @@
-# Project Details for Hackathon Submission
+# ETHOnline 2025
 
 ## Title  
 GUDA: Multi-Asset DeFi Analytics Hub  
