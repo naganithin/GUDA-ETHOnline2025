@@ -4,7 +4,7 @@
 GUDA: Multi-Asset DeFi Analytics Hub  
 
 ## Description  
-GUDA is a DeFi analytics platform designed for EthGlobal 2025, empowering users to track portfolios across multiple assets (e.g., ETH, USDC) on Sepolia and Base Sepolia networks, execute cross-chain transfers with ease, and access detailed analytics via an AI-powered chat interface. Every transaction rewards users with PYUSD cashbacks up to 4%, enhancing engagement with a trusted settlement layer. Built with a sleek, responsive design and offline-ready features, GUDA simplifies DeFi, offering a seamless experience from wallet connection to asset management and secure transfers.
+GUDA is a DeFi analytics platform designed for EthGlobal 2025, empowering users to track portfolios across multiple assets (e.g., ETH, USDC) on Sepolia and Base Sepolia networks, execute cross-chain transfers with ease, and access detailed analytics via an AI-powered chat interface. Every transaction rewards users with PYUSD cashbacks up to 4%, enhancing engagement with a trusted settlement layer. Built with a sleek, responsive design , GUDA simplifies DeFi, offering a seamless experience from wallet connection to asset management and secure transfers.
 
 ## Tech Stack  
 - **Frontend**: Vite (for fast development), RainbowKit (wallet connection), Tailwind CSS (responsive design)  
